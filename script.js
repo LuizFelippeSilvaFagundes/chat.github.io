@@ -1,4 +1,4 @@
-var apiKey = "kgKpqvGeIMixFHg7X6zW1mHonCU9fkJ2AaGU9vtSYxid0PbjopunoMpxE6Jg";
+var apiKey = "uUah2xEIGGkgxCsggK0VxorNKV6djSP70nXBoRxSBnywMNcWJrtwdtnnQNSp";
 var channel = 1;
 var url = "wss://connect.websocket.in/v3/" + channel + "?apiKey=" + apiKey;
 var socket;
